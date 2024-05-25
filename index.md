@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog Hello world from SYSU east campus teaching building D 102
+title: Welcome to my blog 
+date: 2024-05-25
 ---
 
